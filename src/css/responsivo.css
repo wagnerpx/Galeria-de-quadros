@@ -1,0 +1,8 @@
+
+@media(max-width: 1440px) {
+        .galeria {
+        max-width: 900px;
+        margin: 30px 0px;
+        gap: 0;
+    }
+}
